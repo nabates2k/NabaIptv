@@ -1,87 +1,88 @@
-#EXTINF:-1,A&E HD ²
+#EXTM3U
+#EXTINF:-1,A&E HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/60935
-#EXTINF:-1,A&E HD¹
+#EXTINF:-1,A&E HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/8139
-#EXTINF:-1,A&E SD ²
+#EXTINF:-1,A&E SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/60934
-#EXTINF:-1,A&E SD¹
+#EXTINF:-1,A&E SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4404
 #EXTINF:-1,#FIQUE EM CASA
 http://srv.tvprodigital.net:80/192324/192324/58493
 
-#EXTINF:-1,AMC HD ²
+#EXTINF:-1,AMC HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/60933
-#EXTINF:-1,AMC HD²
+#EXTINF:-1,AMC HDË›
 http://srv.tvprodigital.net:80/192324/192324/20890
-#EXTINF:-1,AMC HD¹
+#EXTINF:-1,AMC HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/7691
-#EXTINF:-1,AMC SD ²
+#EXTINF:-1,AMC SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/60932
 #EXTINF:-1,AMC SD*
 http://srv.tvprodigital.net:80/192324/192324/20891
-#EXTINF:-1,AMC SD¹
+#EXTINF:-1,AMC SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/7448
 
 #EXTINF:-1,AMC FHD H265
 http://srv.tvprodigital.net:80/192324/192324/9343
-#EXTINF:-1,AMC Full_HD H265 ²
+#EXTINF:-1,AMC Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61194
 
-#EXTINF:-1,ANIMAL PLANET HD ²
+#EXTINF:-1,ANIMAL PLANET HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61073
-#EXTINF:-1,ANIMAL PLANET HD¹
+#EXTINF:-1,ANIMAL PLANET HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6142
-#EXTINF:-1,ANIMAL PLANET SD ²
+#EXTINF:-1,ANIMAL PLANET SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61072
-#EXTINF:-1,ANIMAL PLANET SD¹
+#EXTINF:-1,ANIMAL PLANET SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4403
 
 #EXTINF:-1,ANIMAL PLANET FHD H265
 http://srv.tvprodigital.net:80/192324/192324/13205
-#EXTINF:-1,ANIMAL PLANET Full_HD H265 ²
+#EXTINF:-1,ANIMAL PLANET Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61229
 
 
-#EXTINF:-1,ARTE 1 HD ²
+#EXTINF:-1,ARTE 1 HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/60931
-#EXTINF:-1,ARTE 1 SD ²
+#EXTINF:-1,ARTE 1 SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/60930
 
 #EXTINF:-1,AXN HD (LEGENDADOS)
 http://srv.tvprodigital.net:80/192324/192324/58509
-#EXTINF:-1,AXN HD ²
+#EXTINF:-1,AXN HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/60937
-#EXTINF:-1,AXN HD¹
+#EXTINF:-1,AXN HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6140
-#EXTINF:-1,AXN SD¹
+#EXTINF:-1,AXN SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4402
 
 #EXTINF:-1,AXN FHD H265
 http://srv.tvprodigital.net:80/192324/192324/13212
-#EXTINF:-1,AXN Full_HD H265 ²
+#EXTINF:-1,AXN Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61197
 
 
-#EXTINF:-1,BABY HD ²
+#EXTINF:-1,BABY HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61100
-#EXTINF:-1,BABY TV SD ²
+#EXTINF:-1,BABY TV SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61099
-#EXTINF:-1,BABY TV SD¹
+#EXTINF:-1,BABY TV SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4401
-#EXTINF:-1,BAND ARACAJU HD¹
+#EXTINF:-1,BAND ARACAJU HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/24752
-#EXTINF:-1,BAND BAHIA SD¹
+#EXTINF:-1,BAND BAHIA SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/30427
-#EXTINF:-1,BAND CAMPINAS HD ²
+#EXTINF:-1,BAND CAMPINAS HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/60866
-#EXTINF:-1,BAND CAMPINAS HD¹
+#EXTINF:-1,BAND CAMPINAS HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/33280
 
-#EXTINF:-1,BAND GOIANIA HD¹
+#EXTINF:-1,BAND GOIANIA HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/25019
 #EXTINF:-1,BAND HD
 http://srv.tvprodigital.net:80/192324/192324/60862
-#EXTINF:-1,BAND HD¹
+#EXTINF:-1,BAND HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6882
 #EXTINF:-1,BAND NEWS FHD H265
 http://srv.tvprodigital.net:80/192324/192324/11536
@@ -91,21 +92,21 @@ http://srv.tvprodigital.net:80/192324/192324/61281
 http://srv.tvprodigital.net:80/192324/192324/61135
 #EXTINF:-1,BAND NEWS SD
 http://srv.tvprodigital.net:80/192324/192324/61134
-#EXTINF:-1,BAND NEWS SD¹
+#EXTINF:-1,BAND NEWS SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4399
-#EXTINF:-1,BAND RJ HD¹
+#EXTINF:-1,BAND RJ HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/25542
-#EXTINF:-1,BAND RS HD¹
+#EXTINF:-1,BAND RS HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/25018
-#EXTINF:-1,BAND SD ²
+#EXTINF:-1,BAND SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/60861
-#EXTINF:-1,BAND SD¹
+#EXTINF:-1,BAND SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4400
-#EXTINF:-1,BAND SP HD ²
+#EXTINF:-1,BAND SP HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/60865
 #EXTINF:-1,BAND SPORTS FHD H265
 http://srv.tvprodigital.net:80/192324/192324/11535
-#EXTINF:-1,BAND Full_HD H265 ²
+#EXTINF:-1,BAND Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61314
 #EXTINF:-1,BAND GOIANIA FHD  H265
 http://srv.tvprodigital.net:80/192324/192324/30438
@@ -113,189 +114,189 @@ http://srv.tvprodigital.net:80/192324/192324/30438
 http://srv.tvprodigital.net:80/192324/192324/61254
 #EXTINF:-1,BAND SPORTS HD
 http://srv.tvprodigital.net:80/192324/192324/61027
-#EXTINF:-1,BAND SPORTS HD¹
+#EXTINF:-1,BAND SPORTS HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6138
 #EXTINF:-1,BAND SPORTS SD
 http://srv.tvprodigital.net:80/192324/192324/61028
-#EXTINF:-1,BIS Full_HD H265 ²
+#EXTINF:-1,BIS Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61274
 #EXTINF:-1,BIS HD
 http://srv.tvprodigital.net:80/192324/192324/61159
-#EXTINF:-1,BIS HD¹
+#EXTINF:-1,BIS HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6881
-#EXTINF:-1,BIS SD ²
+#EXTINF:-1,BIS SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61158
-#EXTINF:-1,BIS SD¹
+#EXTINF:-1,BIS SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6964
 #EXTINF:-1,BOB ESPONJA 24HRS
 http://srv.tvprodigital.net:80/192324/192324/34867
 #EXTINF:-1,BOOMERANG FHD H265
 http://srv.tvprodigital.net:80/192324/192324/11534
-#EXTINF:-1,BOOMERANG HD ²
+#EXTINF:-1,BOOMERANG HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61102
-#EXTINF:-1,BOOMERANG SD ²
+#EXTINF:-1,BOOMERANG SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61101
-#EXTINF:-1,BOOMERANG SD¹
+#EXTINF:-1,BOOMERANG SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4396
 #EXTINF:-1,#FIQUE EM CASA
 http://srv.tvprodigital.net:80/192324/192324/58496
-#EXTINF:-1,CANAL BRASIL SD¹
+#EXTINF:-1,CANAL BRASIL SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6963
-#EXTINF:-1,CANAL DO BOI SD¹
+#EXTINF:-1,CANAL DO BOI SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/11287
 #EXTINF:-1,CANAL SONY FHD H265
 http://srv.tvprodigital.net:80/192324/192324/13202
-#EXTINF:-1,CANAL SONY HD¹
+#EXTINF:-1,CANAL SONY HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6961
-#EXTINF:-1,CANAL SONY SD¹
+#EXTINF:-1,CANAL SONY SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4395
-#EXTINF:-1,CANCAO NOVA SD¹
+#EXTINF:-1,CANCAO NOVA SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/30662
 #EXTINF:-1,CARTOON NETWORK FHD H265
 http://srv.tvprodigital.net:80/192324/192324/13210
-#EXTINF:-1,CARTOON NETWORK Full_HD H265 ²
+#EXTINF:-1,CARTOON NETWORK Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61243
-#EXTINF:-1,CARTOON NETWORK HD ²
+#EXTINF:-1,CARTOON NETWORK HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61104
-#EXTINF:-1,CARTOON NETWORK HD¹
+#EXTINF:-1,CARTOON NETWORK HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/7817
-#EXTINF:-1,CARTOON NETWORK SD ²
+#EXTINF:-1,CARTOON NETWORK SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61103
-#EXTINF:-1,CARTOON NETWORK SD¹
+#EXTINF:-1,CARTOON NETWORK SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4394
-#EXTINF:-1,CINE 06 ²
+#EXTINF:-1,CINE 06 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61025
-#EXTINF:-1,CINE 07 ²
+#EXTINF:-1,CINE 07 Ë›
 http://srv.tvprodigital.net:80/192324/192324/60956
-#EXTINF:-1,CINE 08 ²
+#EXTINF:-1,CINE 08 Ë›
 http://srv.tvprodigital.net:80/192324/192324/60957
-#EXTINF:-1,CINE 09 ²
+#EXTINF:-1,CINE 09 Ë›
 http://srv.tvprodigital.net:80/192324/192324/60958
-#EXTINF:-1,CINE 10 ²
+#EXTINF:-1,CINE 10 Ë›
 http://srv.tvprodigital.net:80/192324/192324/60959
-#EXTINF:-1,CANAIS RESERVAS 1 01 (CH281) ²
+#EXTINF:-1,CANAIS RESERVAS 1 01 (CH281) Ë›
 http://srv.tvprodigital.net:80/192324/192324/60940
-#EXTINF:-1,CANAIS RESERVAS 1 02 (CH282) ²
+#EXTINF:-1,CANAIS RESERVAS 1 02 (CH282) Ë›
 http://srv.tvprodigital.net:80/192324/192324/60941
-#EXTINF:-1,CANAIS RESERVAS 1 03 (CH283) ²
+#EXTINF:-1,CANAIS RESERVAS 1 03 (CH283) Ë›
 http://srv.tvprodigital.net:80/192324/192324/60942
-#EXTINF:-1,CANAIS RESERVAS 1 04 (CH284) ²
+#EXTINF:-1,CANAIS RESERVAS 1 04 (CH284) Ë›
 http://srv.tvprodigital.net:80/192324/192324/60943
-#EXTINF:-1,CANAIS RESERVAS 1 06 (CH286) ²
+#EXTINF:-1,CANAIS RESERVAS 1 06 (CH286) Ë›
 http://srv.tvprodigital.net:80/192324/192324/60945
-#EXTINF:-1,CANAIS RESERVAS 1 07 (CH287) ²
+#EXTINF:-1,CANAIS RESERVAS 1 07 (CH287) Ë›
 http://srv.tvprodigital.net:80/192324/192324/60946
-#EXTINF:-1,CANAIS RESERVAS 1 08 (CH288) ²
+#EXTINF:-1,CANAIS RESERVAS 1 08 (CH288) Ë›
 http://srv.tvprodigital.net:80/192324/192324/60947
-#EXTINF:-1,CANAIS RESERVAS 1 09 (CH289) ²
+#EXTINF:-1,CANAIS RESERVAS 1 09 (CH289) Ë›
 http://srv.tvprodigital.net:80/192324/192324/60949
-#EXTINF:-1,CANAIS RESERVAS 1 10 (CH290) ²
+#EXTINF:-1,CANAIS RESERVAS 1 10 (CH290) Ë›
 http://srv.tvprodigital.net:80/192324/192324/60950
-#EXTINF:-1,CANAIS RESERVAS 1¹  1 HD
+#EXTINF:-1,CANAIS RESERVAS 1Å¡  1 HD
 http://srv.tvprodigital.net:80/192324/192324/59966
-#EXTINF:-1,CANAIS RESERVAS 1¹ 2 HD
+#EXTINF:-1,CANAIS RESERVAS 1Å¡ 2 HD
 http://srv.tvprodigital.net:80/192324/192324/59967
-#EXTINF:-1,DISCOVERY THEATER Full_HD H265 ²
+#EXTINF:-1,DISCOVERY THEATER Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61233
 #EXTINF:-1,DISCOVERY THEATER HD
 http://srv.tvprodigital.net:80/192324/192324/61079
-#EXTINF:-1,DISCOVERY THEATER HD¹
+#EXTINF:-1,DISCOVERY THEATER HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6130
-#EXTINF:-1,DISCOVERY THEATER SD ²
+#EXTINF:-1,DISCOVERY THEATER SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61078
-#EXTINF:-1,DISCOVERY TURBO FHD H265 ¹
+#EXTINF:-1,DISCOVERY TURBO FHD H265 Å¡
 http://srv.tvprodigital.net:80/192324/192324/11531
-#EXTINF:-1,DISCOVERY TURBO Full_HD H265 ²
+#EXTINF:-1,DISCOVERY TURBO Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61234
-#EXTINF:-1,DISCOVERY TURBO HD ²
+#EXTINF:-1,DISCOVERY TURBO HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61077
-#EXTINF:-1,DISCOVERY TURBO HD¹
+#EXTINF:-1,DISCOVERY TURBO HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6877
-#EXTINF:-1,DISCOVERY TURBO SD ²
+#EXTINF:-1,DISCOVERY TURBO SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61076
-#EXTINF:-1,DISCOVERY TURBO SD¹
+#EXTINF:-1,DISCOVERY TURBO SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4386
-#EXTINF:-1,DISCOVERY WORLD Full_HD H265 ²
+#EXTINF:-1,DISCOVERY WORLD Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61235
-#EXTINF:-1,DISCOVERY WORLD HD ²
+#EXTINF:-1,DISCOVERY WORLD HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61089
-#EXTINF:-1,DISCOVERY WORLD HD¹
+#EXTINF:-1,DISCOVERY WORLD HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6128
-#EXTINF:-1,DISCOVERY WORLD SD ²
+#EXTINF:-1,DISCOVERY WORLD SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61088
 #EXTINF:-1,DISNEY CHANNEL FHD H265
 http://srv.tvprodigital.net:80/192324/192324/11546
-#EXTINF:-1,DISNEY CHANNEL Full_HD H265 ²
+#EXTINF:-1,DISNEY CHANNEL Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61246
-#EXTINF:-1,DISNEY CHANNEL HD ²
+#EXTINF:-1,DISNEY CHANNEL HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61110
-#EXTINF:-1,DISNEY CHANNEL HD¹
+#EXTINF:-1,DISNEY CHANNEL HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/7902
-#EXTINF:-1,DISNEY CHANNEL SD ²
+#EXTINF:-1,DISNEY CHANNEL SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61109
-#EXTINF:-1,DISNEY CHANNEL SD¹
+#EXTINF:-1,DISNEY CHANNEL SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4385
-#EXTINF:-1,DISNEY JR Full_HD H265 ²
+#EXTINF:-1,DISNEY JR Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61247
-#EXTINF:-1,DISNEY JR HD ²
+#EXTINF:-1,DISNEY JR HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61112
-#EXTINF:-1,DISNEY JR SD ²
+#EXTINF:-1,DISNEY JR SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61111
 #EXTINF:-1,DISNEY JUNIOR FHD H265
 http://srv.tvprodigital.net:80/192324/192324/13207
-#EXTINF:-1,DISNEY JUNIOR HD¹
+#EXTINF:-1,DISNEY JUNIOR HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/10286
-#EXTINF:-1,DISNEY JUNIOR SD¹
+#EXTINF:-1,DISNEY JUNIOR SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4384
-#EXTINF:-1,DISNEY XD HD ²
+#EXTINF:-1,DISNEY XD HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61114
-#EXTINF:-1,DISNEY XD SD ²
+#EXTINF:-1,DISNEY XD SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61113
-#EXTINF:-1,DISNEY XD SD¹
+#EXTINF:-1,DISNEY XD SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4383
 #EXTINF:-1,E! HD
 http://srv.tvprodigital.net:80/192324/192324/61161
-#EXTINF:-1,E! HD¹
+#EXTINF:-1,E! HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/10285
 #EXTINF:-1,E! SD
 http://srv.tvprodigital.net:80/192324/192324/61160
 #EXTINF:-1,ESPN 2 FHD H265
 http://srv.tvprodigital.net:80/192324/192324/11521
-#EXTINF:-1,ESPN 2 Full_HD H265 ²
+#EXTINF:-1,ESPN 2 Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61257
-#EXTINF:-1,ESPN 2 HD ²
+#EXTINF:-1,ESPN 2 HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61034
-#EXTINF:-1,ESPN 2 HD¹
+#EXTINF:-1,ESPN 2 HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6143
-#EXTINF:-1,ESPN 2 SD ²
+#EXTINF:-1,ESPN 2 SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61033
-#EXTINF:-1,ESPN 2 SD¹
+#EXTINF:-1,ESPN 2 SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/7988
-#EXTINF:-1,ESPN BRASIL HD¹
+#EXTINF:-1,ESPN BRASIL HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6124
-#EXTINF:-1,ESPN BRASIL SD ²
+#EXTINF:-1,ESPN BRASIL SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61035
-#EXTINF:-1,ESPN BRASIL SD¹
+#EXTINF:-1,ESPN BRASIL SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4380
-#EXTINF:-1,ESPN EXTRA  Full_HD H265 ²
+#EXTINF:-1,ESPN EXTRA  Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61259
-#EXTINF:-1,ESPN EXTRA HD ²
+#EXTINF:-1,ESPN EXTRA HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61038
-#EXTINF:-1,ESPN EXTRA HD¹
+#EXTINF:-1,ESPN EXTRA HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/24788
-#EXTINF:-1,ESPN EXTRA SD ²
+#EXTINF:-1,ESPN EXTRA SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61037
 #EXTINF:-1,ESPN FHD H265
 http://srv.tvprodigital.net:80/192324/192324/11545
-#EXTINF:-1,ESPN Full_HD H265 ²
+#EXTINF:-1,ESPN Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61256
-#EXTINF:-1,ESPN HD ²
+#EXTINF:-1,ESPN HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61032
-#EXTINF:-1,ESPN HD¹
+#EXTINF:-1,ESPN HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6127
-#EXTINF:-1,ESPN SD ²
+#EXTINF:-1,ESPN SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61031
-#EXTINF:-1,ESPN SD¹
+#EXTINF:-1,ESPN SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4381
 #EXTINF:-1,#FIQUE EM CASA
 http://srv.tvprodigital.net:80/192324/192324/58488
@@ -303,21 +304,21 @@ http://srv.tvprodigital.net:80/192324/192324/58488
 http://srv.tvprodigital.net:80/192324/192324/60963
 #EXTINF:-1,FILM & ARTS SD
 http://srv.tvprodigital.net:80/192324/192324/60962
-#EXTINF:-1,FILM&ARTS SD¹
+#EXTINF:-1,FILM&ARTS SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/11180
 #EXTINF:-1,FISH TV SD
 http://srv.tvprodigital.net:80/192324/192324/61039
-#EXTINF:-1,FISH TV SD¹
+#EXTINF:-1,FISH TV SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4377
 #EXTINF:-1,FOOD NETWORK FHD H265
 http://srv.tvprodigital.net:80/192324/192324/13196
-#EXTINF:-1,FOOD NETWORK Full_HD H265 ²
+#EXTINF:-1,FOOD NETWORK Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61275
-#EXTINF:-1,FOOD NETWORK HD ²
+#EXTINF:-1,FOOD NETWORK HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61163
-#EXTINF:-1,FOOD NETWORK HD¹
+#EXTINF:-1,FOOD NETWORK HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/7534
-#EXTINF:-1,FOOD NETWORK SD¹
+#EXTINF:-1,FOOD NETWORK SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6959
 #EXTINF:-1,FOX FHD H264 (LEGENDADOS)
 http://srv.tvprodigital.net:80/192324/192324/58507
@@ -329,21 +330,21 @@ http://srv.tvprodigital.net:80/192324/192324/61199
 http://srv.tvprodigital.net:80/192324/192324/60965
 #EXTINF:-1,FOX HD (LEGENDADOS)
 http://srv.tvprodigital.net:80/192324/192324/58508
-#EXTINF:-1,FOX HD¹
+#EXTINF:-1,FOX HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6122
 #EXTINF:-1,FOX LIFE Full_HD H265
 http://srv.tvprodigital.net:80/192324/192324/61200
-#EXTINF:-1,FOX LIFE HD ²
+#EXTINF:-1,FOX LIFE HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61165
-#EXTINF:-1,FOX LIFE HD ²
+#EXTINF:-1,FOX LIFE HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61167
-#EXTINF:-1,FOX LIFE HD¹
+#EXTINF:-1,FOX LIFE HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6876
-#EXTINF:-1,FOX LIFE SD ²
+#EXTINF:-1,FOX LIFE SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61164
-#EXTINF:-1,FOX LIFE SD ²
+#EXTINF:-1,FOX LIFE SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61166
-#EXTINF:-1,FOX LIFE SD¹
+#EXTINF:-1,FOX LIFE SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4374
 #EXTINF:-1,FOX PREMIUM 1 FHD H264 (LEGENDADOS)
 http://srv.tvprodigital.net:80/192324/192324/58510
@@ -361,87 +362,87 @@ http://srv.tvprodigital.net:80/192324/192324/60841
 http://srv.tvprodigital.net:80/192324/192324/60842
 #EXTINF:-1,GLOBO SOROCABA SD
 http://srv.tvprodigital.net:80/192324/192324/60846
-#EXTINF:-1,GLOBO SOROCABA SD¹
+#EXTINF:-1,GLOBO SOROCABA SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/7684
-#EXTINF:-1,GLOBO SP Full_HD H265 ²
+#EXTINF:-1,GLOBO SP Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61302
 #EXTINF:-1,GLOBO SP SD
 http://srv.tvprodigital.net:80/192324/192324/60848
-#EXTINF:-1,GLOBO SP SD¹
+#EXTINF:-1,GLOBO SP SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4431
-#EXTINF:-1,GLOBO SUL DE MINAS Full_hd H265 ²
+#EXTINF:-1,GLOBO SUL DE MINAS Full_hd H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61303
 #EXTINF:-1,GLOBO TRIBUNA SANTOS SD
 http://srv.tvprodigital.net:80/192324/192324/60849
 #EXTINF:-1,GLOBO TV ANHANGUERA FHD H265
 http://srv.tvprodigital.net:80/192324/192324/33286
-#EXTINF:-1,GLOBO TV ANHANGUERA HD¹
+#EXTINF:-1,GLOBO TV ANHANGUERA HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/22004
-#EXTINF:-1,GLOBO TV BAHIA Full_HD H265 ²
+#EXTINF:-1,GLOBO TV BAHIA Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61305
-#EXTINF:-1,GLOBO TV BAHIA SD¹
+#EXTINF:-1,GLOBO TV BAHIA SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/33261
 #EXTINF:-1,GLOBO TV BELEM HD
 http://srv.tvprodigital.net:80/192324/192324/60850
-#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD¹
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/22017
-#EXTINF:-1,GLOBO TV GAZETA Full_hd H265 ²
+#EXTINF:-1,GLOBO TV GAZETA Full_hd H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61309
-#EXTINF:-1,GLOBO TV LIBERAL BELEM SD ²
+#EXTINF:-1,GLOBO TV LIBERAL BELEM SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/39565
-#EXTINF:-1,GLOBO TV MIRANTE MARANHAO HD¹
+#EXTINF:-1,GLOBO TV MIRANTE MARANHAO HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/33282
-#EXTINF:-1,GLOBO TV Morena Ponta Pora HD¹
+#EXTINF:-1,GLOBO TV Morena Ponta Pora HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/22734
-#EXTINF:-1,GLOBO TV RIO SUL  HD¹
+#EXTINF:-1,GLOBO TV RIO SUL  HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/34430
-#EXTINF:-1,GLOBO TV SANTA CRUZ SD¹
+#EXTINF:-1,GLOBO TV SANTA CRUZ SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/10238
-#EXTINF:-1,GLOBO TV SERGIPE HD¹
+#EXTINF:-1,GLOBO TV SERGIPE HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/24750
-#EXTINF:-1,GLOBO TV TEM BAURU SD¹
+#EXTINF:-1,GLOBO TV TEM BAURU SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/9465
-#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD¹
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/22732
-#EXTINF:-1,GLOBO TV VANGUARDA SJ DOS CAMPOS SD¹
+#EXTINF:-1,GLOBO TV VANGUARDA SJ DOS CAMPOS SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/22735
-#EXTINF:-1,GLOBO TV VERDES MARES Full_HD H265 ²
+#EXTINF:-1,GLOBO TV VERDES MARES Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61326
-#EXTINF:-1,GLOBO TV VERDES MARES SD¹
+#EXTINF:-1,GLOBO TV VERDES MARES SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/22733
-#EXTINF:-1,GLOBO VANGUARDA S.J CAMPO SD ²
+#EXTINF:-1,GLOBO VANGUARDA S.J CAMPO SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/60854
 #EXTINF:-1,GLOBO VANGUARDA TAUBATE SD
 http://srv.tvprodigital.net:80/192324/192324/60855
 #EXTINF:-1,GLOBO VERDES MARES FORTALEZA SD
 http://srv.tvprodigital.net:80/192324/192324/60856
-#EXTINF:-1,GLOBO VERDES MARES HD¹
+#EXTINF:-1,GLOBO VERDES MARES HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/20623
-#EXTINF:-1,GLOOB FHD H265²
+#EXTINF:-1,GLOOB FHD H265Ë›
 http://srv.tvprodigital.net:80/192324/192324/60857
 #EXTINF:-1,GLOOB HD
 http://srv.tvprodigital.net:80/192324/192324/61117
-#EXTINF:-1,GLOOB HD¹
+#EXTINF:-1,GLOOB HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/7526
 #EXTINF:-1,GLOOB SD
 http://srv.tvprodigital.net:80/192324/192324/61116
-#EXTINF:-1,GLOOB SD¹
+#EXTINF:-1,GLOOB SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4369
-#EXTINF:-1,GLOOBINHO FHD H265²
+#EXTINF:-1,GLOOBINHO FHD H265Ë›
 http://srv.tvprodigital.net:80/192324/192324/61248
 #EXTINF:-1,GLOOBINHO HD
 http://srv.tvprodigital.net:80/192324/192324/61119
 #EXTINF:-1,GLOOBINHO SD
 http://srv.tvprodigital.net:80/192324/192324/61118
-#EXTINF:-1,GLOOBINHO SD¹
+#EXTINF:-1,GLOOBINHO SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/10270
 #EXTINF:-1,GNT HD
 http://srv.tvprodigital.net:80/192324/192324/61169
-#EXTINF:-1,GNT HD¹
+#EXTINF:-1,GNT HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6956
 #EXTINF:-1,GNT SD
 http://srv.tvprodigital.net:80/192324/192324/61168
-#EXTINF:-1,GNT SD¹
+#EXTINF:-1,GNT SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4368
 #EXTINF:-1,Gostei Gospel Tv SP SD
 http://srv.tvprodigital.net:80/192324/192324/60928
@@ -451,9 +452,9 @@ http://srv.tvprodigital.net:80/192324/192324/13187
 http://srv.tvprodigital.net:80/192324/192324/61238
 #EXTINF:-1,H2 HD
 http://srv.tvprodigital.net:80/192324/192324/61091
-#EXTINF:-1,H2 HD¹
+#EXTINF:-1,H2 HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6111
-#EXTINF:-1,H2 SD¹
+#EXTINF:-1,H2 SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4367
 #EXTINF:-1,HBO + PLUS HD (LEGENDADO)
 http://srv.tvprodigital.net:80/192324/192324/47751
@@ -463,11 +464,11 @@ http://srv.tvprodigital.net:80/192324/192324/11567
 http://srv.tvprodigital.net:80/192324/192324/61204
 #EXTINF:-1,HBO 2 HD
 http://srv.tvprodigital.net:80/192324/192324/60976
-#EXTINF:-1,HBO 2 HD¹
+#EXTINF:-1,HBO 2 HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6110
 #EXTINF:-1,HBO 2 SD
 http://srv.tvprodigital.net:80/192324/192324/60975
-#EXTINF:-1,HBO 2 SD¹
+#EXTINF:-1,HBO 2 SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4365
 #EXTINF:-1,HBO EXTREME HD
 http://srv.tvprodigital.net:80/192324/192324/60986
@@ -477,11 +478,11 @@ http://srv.tvprodigital.net:80/192324/192324/11568
 http://srv.tvprodigital.net:80/192324/192324/61205
 #EXTINF:-1,HBO FAMILY HD
 http://srv.tvprodigital.net:80/192324/192324/60978
-#EXTINF:-1,HBO FAMILY HD¹
+#EXTINF:-1,HBO FAMILY HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6109
 #EXTINF:-1,HBO FAMILY SD
 http://srv.tvprodigital.net:80/192324/192324/60977
-#EXTINF:-1,HBO FAMILY SD¹
+#EXTINF:-1,HBO FAMILY SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4364
 #EXTINF:-1,HBO FHD (LEGENDADO)
 http://srv.tvprodigital.net:80/192324/192324/47752
@@ -495,7 +496,7 @@ http://srv.tvprodigital.net:80/192324/192324/61206
 http://srv.tvprodigital.net:80/192324/192324/60974
 #EXTINF:-1,HBO HD ( CANAIS LENGENDADOS)
 http://srv.tvprodigital.net:80/192324/192324/58333
-#EXTINF:-1,HBO HD¹
+#EXTINF:-1,HBO HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6108
 #EXTINF:-1,HBO MUNDI FHD (LEGENDADOS)
 http://srv.tvprodigital.net:80/192324/192324/58501
@@ -505,9 +506,9 @@ http://srv.tvprodigital.net:80/192324/192324/61209
 http://srv.tvprodigital.net:80/192324/192324/60984
 #EXTINF:-1,HBO MUNDI HD (LEGENDADOS)
 http://srv.tvprodigital.net:80/192324/192324/58502
-#EXTINF:-1,HBO MUNDI HD¹
+#EXTINF:-1,HBO MUNDI HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/10266
-#EXTINF:-1,HBO MUNDI SD¹
+#EXTINF:-1,HBO MUNDI SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4358
 #EXTINF:-1,HBO PLUS FHD H264 (LEGENDADOS)
 http://srv.tvprodigital.net:80/192324/192324/58334
@@ -519,11 +520,11 @@ http://srv.tvprodigital.net:80/192324/192324/61207
 http://srv.tvprodigital.net:80/192324/192324/60980
 #EXTINF:-1,HBO PLUS HD (LEGENDADOS)
 http://srv.tvprodigital.net:80/192324/192324/58498
-#EXTINF:-1,HBO PLUS HD¹
+#EXTINF:-1,HBO PLUS HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6106
 #EXTINF:-1,HBO PLUS SD
 http://srv.tvprodigital.net:80/192324/192324/60979
-#EXTINF:-1,HBO PLUS SD¹
+#EXTINF:-1,HBO PLUS SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4363
 #EXTINF:-1,HBO POP FHD H264 (LEGENDADOS)
 http://srv.tvprodigital.net:80/192324/192324/58503
@@ -535,13 +536,13 @@ http://srv.tvprodigital.net:80/192324/192324/61211
 http://srv.tvprodigital.net:80/192324/192324/60988
 #EXTINF:-1,HBO POP HD (LEGENDADOS)
 http://srv.tvprodigital.net:80/192324/192324/58504
-#EXTINF:-1,HBO POP HD¹
+#EXTINF:-1,HBO POP HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/10265
-#EXTINF:-1,HBO POP SD¹
+#EXTINF:-1,HBO POP SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4355
 #EXTINF:-1,HBO SD
 http://srv.tvprodigital.net:80/192324/192324/60973
-#EXTINF:-1,HBO SD¹
+#EXTINF:-1,HBO SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4366
 #EXTINF:-1,HBO SIGNATURA HD (LEGENDADO)
 http://srv.tvprodigital.net:80/192324/192324/47754
@@ -553,19 +554,19 @@ http://srv.tvprodigital.net:80/192324/192324/11570
 http://srv.tvprodigital.net:80/192324/192324/61208
 #EXTINF:-1,HBO SIGNATURE HD
 http://srv.tvprodigital.net:80/192324/192324/60982
-#EXTINF:-1,HBO SIGNATURE HD¹
+#EXTINF:-1,HBO SIGNATURE HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6105
 #EXTINF:-1,HBO SIGNATURE SD
 http://srv.tvprodigital.net:80/192324/192324/60981
-#EXTINF:-1,HBO SIGNATURE SD¹
+#EXTINF:-1,HBO SIGNATURE SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4361
 #EXTINF:-1,HBO XTREAM HD (LEGENDADOS)
 http://srv.tvprodigital.net:80/192324/192324/58506
 #EXTINF:-1,HBO Xtreme Full_HD H265
 http://srv.tvprodigital.net:80/192324/192324/61210
-#EXTINF:-1,HBO XTREME HD¹
+#EXTINF:-1,HBO XTREME HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/7850
-#EXTINF:-1,HBO XTREME SD¹
+#EXTINF:-1,HBO XTREME SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4357
 #EXTINF:-1,HBO XTREMEFHD H265
 http://srv.tvprodigital.net:80/192324/192324/25014
@@ -579,17 +580,17 @@ http://srv.tvprodigital.net:80/192324/192324/61237
 http://srv.tvprodigital.net:80/192324/192324/61098
 #EXTINF:-1,HGTV HD
 http://srv.tvprodigital.net:80/192324/192324/61085
-#EXTINF:-1,HGTV HD¹
+#EXTINF:-1,HGTV HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/7862
 #EXTINF:-1,HGTV SD
 http://srv.tvprodigital.net:80/192324/192324/61084
-#EXTINF:-1,HGTV SD¹
+#EXTINF:-1,HGTV SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/10236
 #EXTINF:-1,HISTORY CHANNEL FHD H265
 http://srv.tvprodigital.net:80/192324/192324/13211
-#EXTINF:-1,HISTORY CHANNEL HD¹
+#EXTINF:-1,HISTORY CHANNEL HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6104
-#EXTINF:-1,HISTORY CHANNEL SD¹
+#EXTINF:-1,HISTORY CHANNEL SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4314
 #EXTINF:-1,HISTORY HD
 http://srv.tvprodigital.net:80/192324/192324/61093
@@ -597,17 +598,17 @@ http://srv.tvprodigital.net:80/192324/192324/61093
 http://srv.tvprodigital.net:80/192324/192324/61092
 #EXTINF:-1,ID - INVESTIGACAO DISCOVERY FHD H265
 http://srv.tvprodigital.net:80/192324/192324/9143
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD¹
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6869
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD¹
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4360
-#EXTINF:-1,ID DISCOVERY Full_HD H265 ²
+#EXTINF:-1,ID DISCOVERY Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61236
 #EXTINF:-1,ID Investigation Discovery FHD  H265
 http://srv.tvprodigital.net:80/192324/192324/30696
-#EXTINF:-1,Incrível Hulk 24HRS
+#EXTINF:-1,IncrÃ­vel Hulk 24HRS
 http://srv.tvprodigital.net:80/192324/192324/34893
-#EXTINF:-1,InterTv Cabo Frio  HD¹
+#EXTINF:-1,InterTv Cabo Frio  HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/34531
 #EXTINF:-1,#FIQUE EM CASA
 http://srv.tvprodigital.net:80/192324/192324/58484
@@ -621,11 +622,11 @@ http://srv.tvprodigital.net:80/192324/192324/13198
 http://srv.tvprodigital.net:80/192324/192324/61249
 #EXTINF:-1,NATGEO KIDS HD
 http://srv.tvprodigital.net:80/192324/192324/61121
-#EXTINF:-1,NATGEO KIDS HD¹
+#EXTINF:-1,NATGEO KIDS HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/10261
 #EXTINF:-1,NATGEO KIDS SD
 http://srv.tvprodigital.net:80/192324/192324/61120
-#EXTINF:-1,NATGEO KIDS SD¹
+#EXTINF:-1,NATGEO KIDS SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4350
 #EXTINF:-1,NATGEO SD
 http://srv.tvprodigital.net:80/192324/192324/61094
@@ -633,23 +634,23 @@ http://srv.tvprodigital.net:80/192324/192324/61094
 http://srv.tvprodigital.net:80/192324/192324/11528
 #EXTINF:-1,NATGEO WILD HD
 http://srv.tvprodigital.net:80/192324/192324/61097
-#EXTINF:-1,NATGEO WILD HD¹
+#EXTINF:-1,NATGEO WILD HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6099
 #EXTINF:-1,NATGEO WILD SD
 http://srv.tvprodigital.net:80/192324/192324/61096
-#EXTINF:-1,NATGEO WILD SD¹
+#EXTINF:-1,NATGEO WILD SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4349
 #EXTINF:-1,NATGEO WILDFull_HD H265
 http://srv.tvprodigital.net:80/192324/192324/61241
 #EXTINF:-1,NATIONAL GEOGRAPHY FHD H265
 http://srv.tvprodigital.net:80/192324/192324/13188
-#EXTINF:-1,NATIONAL GEOGRAPHY HD¹
+#EXTINF:-1,NATIONAL GEOGRAPHY HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6098
-#EXTINF:-1,NATIONAL GEOGRAPHY SD¹
+#EXTINF:-1,NATIONAL GEOGRAPHY SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4348
 #EXTINF:-1,#FIQUE EM CASA
 http://srv.tvprodigital.net:80/192324/192324/58492
-#EXTINF:-1,NHK SD¹
+#EXTINF:-1,NHK SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6949
 #EXTINF:-1,NICK FHD H265
 http://srv.tvprodigital.net:80/192324/192324/61250
@@ -661,11 +662,11 @@ http://srv.tvprodigital.net:80/192324/192324/11527
 http://srv.tvprodigital.net:80/192324/192324/61251
 #EXTINF:-1,NICK JR HD
 http://srv.tvprodigital.net:80/192324/192324/61125
-#EXTINF:-1,NICK JR HD¹
+#EXTINF:-1,NICK JR HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/10260
 #EXTINF:-1,NICK JR SD
 http://srv.tvprodigital.net:80/192324/192324/61124
-#EXTINF:-1,NICK JR SD¹
+#EXTINF:-1,NICK JR SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4346
 #EXTINF:-1,NICK SD
 http://srv.tvprodigital.net:80/192324/192324/61122
@@ -675,23 +676,23 @@ http://srv.tvprodigital.net:80/192324/192324/11526
 http://srv.tvprodigital.net:80/192324/192324/61127
 #EXTINF:-1,NICKELODEON SD
 http://srv.tvprodigital.net:80/192324/192324/61126
-#EXTINF:-1,NICKELODEON SD¹
+#EXTINF:-1,NICKELODEON SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4345
 #EXTINF:-1,NOVO TEMPO SD
 http://srv.tvprodigital.net:80/192324/192324/61149
-#EXTINF:-1,NOVO TEMPO SD¹
+#EXTINF:-1,NOVO TEMPO SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6948
 #EXTINF:-1,O SHOW DO GARFIELD
 http://srv.tvprodigital.net:80/192324/192324/60720
 #EXTINF:-1,OFF FHD H265
 http://srv.tvprodigital.net:80/192324/192324/9152
-#EXTINF:-1,OFF HD ²
+#EXTINF:-1,OFF HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61066
-#EXTINF:-1,OFF HD¹
+#EXTINF:-1,OFF HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6947
-#EXTINF:-1,OFF SD ²
+#EXTINF:-1,OFF SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61065
-#EXTINF:-1,OFF SD¹
+#EXTINF:-1,OFF SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4344
 #EXTINF:-1,#FIQUE EM CASA
 http://srv.tvprodigital.net:80/192324/192324/58487
@@ -701,113 +702,113 @@ http://srv.tvprodigital.net:80/192324/192324/13185
 http://srv.tvprodigital.net:80/192324/192324/61214
 #EXTINF:-1,PARAMOUNT HD
 http://srv.tvprodigital.net:80/192324/192324/60992
-#EXTINF:-1,PARAMOUNT HD¹
+#EXTINF:-1,PARAMOUNT HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6945
 #EXTINF:-1,PARAMOUNT SD
 http://srv.tvprodigital.net:80/192324/192324/60991
-#EXTINF:-1,PARAMOUNT SD¹
+#EXTINF:-1,PARAMOUNT SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6946
 #EXTINF:-1,PLAY TV SD
 http://srv.tvprodigital.net:80/192324/192324/61185
-#EXTINF:-1,PLAY TV SD¹
+#EXTINF:-1,PLAY TV SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/20617
 #EXTINF:-1,PREMIERE 2 FHD H265
 http://srv.tvprodigital.net:80/192324/192324/8149
-#EXTINF:-1,PREMIERE 2 HD¹
+#EXTINF:-1,PREMIERE 2 HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6093
-#EXTINF:-1,PREMIERE 2 SD ²
+#EXTINF:-1,PREMIERE 2 SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61046
-#EXTINF:-1,PREMIERE 2 SD¹
+#EXTINF:-1,PREMIERE 2 SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4341
 #EXTINF:-1,PREMIERE 3 FHD H265
 http://srv.tvprodigital.net:80/192324/192324/9230
-#EXTINF:-1,PREMIERE 3 FHD H265 ²
+#EXTINF:-1,PREMIERE 3 FHD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61266
-#EXTINF:-1,PREMIERE 3 HD ²
+#EXTINF:-1,PREMIERE 3 HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61049
-#EXTINF:-1,PREMIERE 3 HD¹
+#EXTINF:-1,PREMIERE 3 HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6092
-#EXTINF:-1,PREMIERE 3 SD ²
+#EXTINF:-1,PREMIERE 3 SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61048
-#EXTINF:-1,PREMIERE 3 SD¹
+#EXTINF:-1,PREMIERE 3 SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4340
 #EXTINF:-1,PREMIERE 4 FHD H265
 http://srv.tvprodigital.net:80/192324/192324/11552
-#EXTINF:-1,PREMIERE 4 FHD H265 ²
+#EXTINF:-1,PREMIERE 4 FHD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61267
-#EXTINF:-1,PREMIERE 4 HD ²
+#EXTINF:-1,PREMIERE 4 HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61051
-#EXTINF:-1,PREMIERE 4 HD¹
+#EXTINF:-1,PREMIERE 4 HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6091
-#EXTINF:-1,PREMIERE 4 SD ²
+#EXTINF:-1,PREMIERE 4 SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61050
-#EXTINF:-1,PREMIERE 4 SD¹
+#EXTINF:-1,PREMIERE 4 SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4339
 #EXTINF:-1,PREMIERE 5 FHD H265
 http://srv.tvprodigital.net:80/192324/192324/9231
-#EXTINF:-1,PREMIERE 5 FHD H265 ²
+#EXTINF:-1,PREMIERE 5 FHD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61268
-#EXTINF:-1,PREMIERE 5 HD ²
+#EXTINF:-1,PREMIERE 5 HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61053
-#EXTINF:-1,PREMIERE 5 HD¹
+#EXTINF:-1,PREMIERE 5 HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6090
-#EXTINF:-1,PREMIERE 5 SD ²
+#EXTINF:-1,PREMIERE 5 SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61052
-#EXTINF:-1,PREMIERE 5 SD¹
+#EXTINF:-1,PREMIERE 5 SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4338
 #EXTINF:-1,PREMIERE 6 FHD H265
 http://srv.tvprodigital.net:80/192324/192324/11550
-#EXTINF:-1,PREMIERE 6 HD ²
+#EXTINF:-1,PREMIERE 6 HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61055
-#EXTINF:-1,PREMIERE 6 HD¹
+#EXTINF:-1,PREMIERE 6 HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/10259
-#EXTINF:-1,PREMIERE 6 SD¹
+#EXTINF:-1,PREMIERE 6 SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4337
 #EXTINF:-1,PREMIERE 7 FHD H265
 http://srv.tvprodigital.net:80/192324/192324/11549
-#EXTINF:-1,PREMIERE 7 FHD H265 ²
+#EXTINF:-1,PREMIERE 7 FHD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61270
-#EXTINF:-1,PREMIERE 7 HD ²
+#EXTINF:-1,PREMIERE 7 HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61057
-#EXTINF:-1,PREMIERE 7 HD¹
+#EXTINF:-1,PREMIERE 7 HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/10258
-#EXTINF:-1,SPACE SD¹
+#EXTINF:-1,SPACE SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4328
 #EXTINF:-1,SPORTV 2 FHD H265
 http://srv.tvprodigital.net:80/192324/192324/11539
-#EXTINF:-1,SPORTV 2 Full_HD H265 ²
+#EXTINF:-1,SPORTV 2 Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61272
-#EXTINF:-1,SPORTV 2 HD ²
+#EXTINF:-1,SPORTV 2 HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61062
-#EXTINF:-1,SPORTV 2 HD¹
+#EXTINF:-1,SPORTV 2 HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6084
 #EXTINF:-1,SPORTV 2 SD
 http://srv.tvprodigital.net:80/192324/192324/61061
-#EXTINF:-1,SPORTV 2 SD¹
+#EXTINF:-1,SPORTV 2 SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4326
 #EXTINF:-1,SPORTV 3 FHD H265
 http://srv.tvprodigital.net:80/192324/192324/11538
-#EXTINF:-1,SPORTV 3 Full_HD H265 ²
+#EXTINF:-1,SPORTV 3 Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61273
-#EXTINF:-1,SPORTV 3 HD ²
+#EXTINF:-1,SPORTV 3 HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61064
-#EXTINF:-1,SPORTV 3 HD¹
+#EXTINF:-1,SPORTV 3 HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6083
-#EXTINF:-1,SPORTV 3 SD ²
+#EXTINF:-1,SPORTV 3 SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61063
-#EXTINF:-1,SPORTV 3 SD¹
+#EXTINF:-1,SPORTV 3 SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4325
 #EXTINF:-1,SPORTV FHD H265
 http://srv.tvprodigital.net:80/192324/192324/11563
-#EXTINF:-1,SPORTV Full_HD H265 ²
+#EXTINF:-1,SPORTV Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61271
-#EXTINF:-1,SPORTV HD ²
+#EXTINF:-1,SPORTV HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61060
-#EXTINF:-1,SPORTV HD¹
+#EXTINF:-1,SPORTV HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/20544
-#EXTINF:-1,SPORTV SD ²
+#EXTINF:-1,SPORTV SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61059
-#EXTINF:-1,SPORTV SD¹
+#EXTINF:-1,SPORTV SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4327
 #EXTINF:-1,Steven Universe 24HRS
 http://srv.tvprodigital.net:80/192324/192324/34926
@@ -817,11 +818,11 @@ http://srv.tvprodigital.net:80/192324/192324/13194
 http://srv.tvprodigital.net:80/192324/192324/61217
 #EXTINF:-1,STUDIO UNIVERSAL HD
 http://srv.tvprodigital.net:80/192324/192324/60998
-#EXTINF:-1,STUDIO UNIVERSAL HD¹
+#EXTINF:-1,STUDIO UNIVERSAL HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/7874
 #EXTINF:-1,STUDIO UNIVERSAL SD
 http://srv.tvprodigital.net:80/192324/192324/60997
-#EXTINF:-1,STUDIO UNIVERSAL SD¹
+#EXTINF:-1,STUDIO UNIVERSAL SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4324
 #EXTINF:-1,SYFY FHD H265
 http://srv.tvprodigital.net:80/192324/192324/13195
@@ -831,17 +832,17 @@ http://srv.tvprodigital.net:80/192324/192324/61218
 http://srv.tvprodigital.net:80/192324/192324/61000
 #EXTINF:-1,SYFY HD (LEGENDADO)
 http://srv.tvprodigital.net:80/192324/192324/47758
-#EXTINF:-1,SYFY HD¹
+#EXTINF:-1,SYFY HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/7795
 #EXTINF:-1,SYFY SD
 http://srv.tvprodigital.net:80/192324/192324/60999
-#EXTINF:-1,SYFY SD¹
+#EXTINF:-1,SYFY SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4323
 #EXTINF:-1,#FIQUE EM CASA
 http://srv.tvprodigital.net:80/192324/192324/58490
 #EXTINF:-1,TBS HD
 http://srv.tvprodigital.net:80/192324/192324/61002
-#EXTINF:-1,TBS HD¹
+#EXTINF:-1,TBS HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/7873
 #EXTINF:-1,TBS SD
 http://srv.tvprodigital.net:80/192324/192324/61001
@@ -849,65 +850,65 @@ http://srv.tvprodigital.net:80/192324/192324/61001
 http://srv.tvprodigital.net:80/192324/192324/61004
 #EXTINF:-1,TCM SD
 http://srv.tvprodigital.net:80/192324/192324/61003
-#EXTINF:-1,TCM SD¹
+#EXTINF:-1,TCM SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4321
 #EXTINF:-1,TELECINE ACTION FHD H264 (LEGENDADOS)
 http://srv.tvprodigital.net:80/192324/192324/58324
 #EXTINF:-1,TELECINE ACTION FHD H265
 http://srv.tvprodigital.net:80/192324/192324/8141
-#EXTINF:-1,TELECINE ACTION Full_HD H265 ²
+#EXTINF:-1,TELECINE ACTION Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61219
 #EXTINF:-1,TELECINE ACTION HD (LEGENDADOS)
 http://srv.tvprodigital.net:80/192324/192324/58325
-#EXTINF:-1,TELECINE ACTION HD ²
+#EXTINF:-1,TELECINE ACTION HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61006
-#EXTINF:-1,TELECINE ACTION HD¹
+#EXTINF:-1,TELECINE ACTION HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6080
-#EXTINF:-1,TELECINE ACTION SD ²
+#EXTINF:-1,TELECINE ACTION SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61005
-#EXTINF:-1,TELECINE ACTION SD¹
+#EXTINF:-1,TELECINE ACTION SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4320
 #EXTINF:-1,TELECINE CULT FHD (LEGENDADO)
 http://srv.tvprodigital.net:80/192324/192324/47759
-#EXTINF:-1,TELECINE CULT Full_HD H265 ²
+#EXTINF:-1,TELECINE CULT Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61220
-#EXTINF:-1,TELECINE CULT HD ²
+#EXTINF:-1,TELECINE CULT HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61008
-#EXTINF:-1,TELECINE CULT SD ²
+#EXTINF:-1,TELECINE CULT SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61007
-#EXTINF:-1,TELECINE CULT SD¹
+#EXTINF:-1,TELECINE CULT SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4319
 #EXTINF:-1,TELECINE FUN FHD H264 (LEGENDADOS)
 http://srv.tvprodigital.net:80/192324/192324/58328
 #EXTINF:-1,TELECINE FUN FHD H265
 http://srv.tvprodigital.net:80/192324/192324/11561
-#EXTINF:-1,TELECINE FUN Full_HD H265 ²
+#EXTINF:-1,TELECINE FUN Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61221
 #EXTINF:-1,TELECINE FUN HD H264 (LEGENDADOS)
 http://srv.tvprodigital.net:80/192324/192324/58329
-#EXTINF:-1,TELECINE FUN HD ²
+#EXTINF:-1,TELECINE FUN HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61010
-#EXTINF:-1,TELECINE FUN HD¹
+#EXTINF:-1,TELECINE FUN HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6079
-#EXTINF:-1,TELECINE FUN SD ²
+#EXTINF:-1,TELECINE FUN SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61009
-#EXTINF:-1,TELECINE FUN SD¹
+#EXTINF:-1,TELECINE FUN SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4318
 #EXTINF:-1,TELECINE PIPOCA FHD H264 (LEGENDADOS)
 http://srv.tvprodigital.net:80/192324/192324/58320
 #EXTINF:-1,TELECINE PIPOCA FHD H265
 http://srv.tvprodigital.net:80/192324/192324/8144
-#EXTINF:-1,TELECINE PIPOCA Full_HD H265 ²
+#EXTINF:-1,TELECINE PIPOCA Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61222
 #EXTINF:-1,TELECINE PIPOCA HD (LEGENDADOS)
 http://srv.tvprodigital.net:80/192324/192324/58321
-#EXTINF:-1,TELECINE PIPOCA HD ²
+#EXTINF:-1,TELECINE PIPOCA HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61012
-#EXTINF:-1,TELECINE PIPOCA HD¹
+#EXTINF:-1,TELECINE PIPOCA HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6078
-#EXTINF:-1,TELECINE PIPOCA SD ²
+#EXTINF:-1,TELECINE PIPOCA SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61011
-#EXTINF:-1,TELECINE PIPOCA SD¹
+#EXTINF:-1,TELECINE PIPOCA SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4317
 #EXTINF:-1,TELECINE PREMIUM FHD (LEGENDADO)
 http://srv.tvprodigital.net:80/192324/192324/47761
@@ -915,47 +916,47 @@ http://srv.tvprodigital.net:80/192324/192324/47761
 http://srv.tvprodigital.net:80/192324/192324/58322
 #EXTINF:-1,TELECINE PREMIUM FHD H265
 http://srv.tvprodigital.net:80/192324/192324/8140
-#EXTINF:-1,TELECINE PREMIUM Full_HD H265 ²
+#EXTINF:-1,TELECINE PREMIUM Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61223
 #EXTINF:-1,TELECINE PREMIUM HD (LEGENDADO)
 http://srv.tvprodigital.net:80/192324/192324/47762
 #EXTINF:-1,TELECINE PREMIUM HD (LEGENDADOS)
 http://srv.tvprodigital.net:80/192324/192324/58323
-#EXTINF:-1,TELECINE PREMIUM HD ²
+#EXTINF:-1,TELECINE PREMIUM HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61014
-#EXTINF:-1,TELECINE PREMIUM HD¹
+#EXTINF:-1,TELECINE PREMIUM HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6077
-#EXTINF:-1,TELECINE PREMIUM SD ²
+#EXTINF:-1,TELECINE PREMIUM SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61013
-#EXTINF:-1,TELECINE PREMIUM SD¹
+#EXTINF:-1,TELECINE PREMIUM SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4316
 #EXTINF:-1,TELECINE TOUCH FHD H264 (LEGENDADOS)
 http://srv.tvprodigital.net:80/192324/192324/58326
 #EXTINF:-1,TELECINE TOUCH FHD H265
 http://srv.tvprodigital.net:80/192324/192324/25016
-#EXTINF:-1,TELECINE TOUCH Full_HD H265 ²
+#EXTINF:-1,TELECINE TOUCH Full_HD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61224
 #EXTINF:-1,TELECINE TOUCH HD (LEGENDADOS)
 http://srv.tvprodigital.net:80/192324/192324/58327
-#EXTINF:-1,TELECINE TOUCH HD ²
+#EXTINF:-1,TELECINE TOUCH HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61016
-#EXTINF:-1,TELECINE TOUCH HD¹
+#EXTINF:-1,TELECINE TOUCH HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6076
-#EXTINF:-1,TELECINE TOUCH SD ²
+#EXTINF:-1,TELECINE TOUCH SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61015
-#EXTINF:-1,TELECINE TOUCH SD¹
+#EXTINF:-1,TELECINE TOUCH SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4315
-#EXTINF:-1,TERRA VIVA SD¹
+#EXTINF:-1,TERRA VIVA SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6936
 #EXTINF:-1,Thundercats 24HRS
 http://srv.tvprodigital.net:80/192324/192324/34929
 #EXTINF:-1,TLC HD
 http://srv.tvprodigital.net:80/192324/192324/61179
-#EXTINF:-1,TLC HD¹
+#EXTINF:-1,TLC HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/24786
 #EXTINF:-1,TLC SD
 http://srv.tvprodigital.net:80/192324/192324/61178
-#EXTINF:-1,TLC SD¹
+#EXTINF:-1,TLC SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4313
 #EXTINF:-1,TNT FHD H265
 http://srv.tvprodigital.net:80/192324/192324/13181
@@ -963,11 +964,11 @@ http://srv.tvprodigital.net:80/192324/192324/13181
 http://srv.tvprodigital.net:80/192324/192324/61225
 #EXTINF:-1,TNT HD
 http://srv.tvprodigital.net:80/192324/192324/61018
-#EXTINF:-1,TNT HD¹
+#EXTINF:-1,TNT HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6074
 #EXTINF:-1,TNT SD
 http://srv.tvprodigital.net:80/192324/192324/61017
-#EXTINF:-1,TNT SD¹
+#EXTINF:-1,TNT SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4312
 #EXTINF:-1,TNT SERIES FHD H265
 http://srv.tvprodigital.net:80/192324/192324/13186
@@ -975,27 +976,27 @@ http://srv.tvprodigital.net:80/192324/192324/13186
 http://srv.tvprodigital.net:80/192324/192324/61226
 #EXTINF:-1,TNT SERIES HD
 http://srv.tvprodigital.net:80/192324/192324/61020
-#EXTINF:-1,TNT SERIES HD¹
+#EXTINF:-1,TNT SERIES HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6073
 #EXTINF:-1,TNT SERIES SD
 http://srv.tvprodigital.net:80/192324/192324/61019
-#EXTINF:-1,TNT SERIES SD¹
+#EXTINF:-1,TNT SERIES SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4311
-#EXTINF:-1,TOONCAST FHD H265 ²
+#EXTINF:-1,TOONCAST FHD H265 Ë›
 http://srv.tvprodigital.net:80/192324/192324/61252
-#EXTINF:-1,TOONCAST HD ²
+#EXTINF:-1,TOONCAST HD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61129
-#EXTINF:-1,TOONCAST SD ²
+#EXTINF:-1,TOONCAST SD Ë›
 http://srv.tvprodigital.net:80/192324/192324/61128
-#EXTINF:-1,TOONCAST SD¹
+#EXTINF:-1,TOONCAST SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4310
 #EXTINF:-1,TRUTV SD
 http://srv.tvprodigital.net:80/192324/192324/61180
-#EXTINF:-1,TRUTV SD¹
+#EXTINF:-1,TRUTV SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/6935
-#EXTINF:-1,TV ALTEROSA SBT MINAS HD¹
+#EXTINF:-1,TV ALTEROSA SBT MINAS HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/30434
-#EXTINF:-1,TV ANHANGUERA GOIANIA HD¹
+#EXTINF:-1,TV ANHANGUERA GOIANIA HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/30439
 #EXTINF:-1,TV APARECIDA HD
 http://srv.tvprodigital.net:80/192324/192324/45592
@@ -1003,15 +1004,15 @@ http://srv.tvprodigital.net:80/192324/192324/45592
 http://srv.tvprodigital.net:80/192324/192324/61153
 #EXTINF:-1,TV APARECIDA SD
 http://srv.tvprodigital.net:80/192324/192324/61150
-#EXTINF:-1,TV APARECIDA SD¹
+#EXTINF:-1,TV APARECIDA SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/4438
-#EXTINF:-1,TV APERIPER  ARACAJU HD¹
+#EXTINF:-1,TV APERIPER  ARACAJU HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/24753
-#EXTINF:-1,TV ARATU SBT BAHIA HD¹
+#EXTINF:-1,TV ARATU SBT BAHIA HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/30428
 #EXTINF:-1,TV Brasil DF
 http://srv.tvprodigital.net:80/192324/192324/60906
-#EXTINF:-1,TV CABRALIA RECORD BAHIA HD¹
+#EXTINF:-1,TV CABRALIA RECORD BAHIA HDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/30429
-#EXTINF:-1,TV CAMARA SD¹
+#EXTINF:-1,TV CAMARA SDÅ¡
 http://srv.tvprodigital.net:80/192324/192324/10245
